@@ -1,12 +1,3 @@
-Good call.
-If you want to **master Python**, you need a **clean topic → sub-topic hierarchy**, not day-wise noise.
-
-Below is the **COMPLETE PYTHON ROADMAP**, structured **exactly how Python knowledge is organized in real life**, and **optimized for AI / ML / Data Science**.
-
-Read it top to bottom. **Do not skip sections.**
-
----
-
 # PYTHON MASTERY ROADMAP
 
 *(Topic → Sub-Topic Wise | AI / ML / Data Science Focused)*
